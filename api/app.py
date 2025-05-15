@@ -273,5 +273,7 @@ def health_check():
             "timestamp": datetime.datetime.now().isoformat()
         }), 500
 
+
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5328, debug=True)
+    port = int(os.environ.get('PORT', 5328))  # 5328 is fallback for local use
+    app.run(host='0.0.0.0', port=port, debug=True)
