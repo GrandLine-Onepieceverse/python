@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Fleet Admiral Akainu",
+    "rank": "Fleet Admiral",
+    "specialty": "Magma-Magma Fruit User",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 2,
+    "name": "Admiral Kizaru",
+    "rank": "Admiral",
+    "specialty": "Light-Light Fruit User",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 3,
+    "name": "Vice Admiral Garp",
+    "rank": "Vice Admiral",
+    "specialty": "Haki Master",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 4,
+    "name": "Captain Tashigi",
+    "rank": "Captain",
+    "specialty": "Swordsmanship",
+    "image": "/placeholder.svg?height=100&width=100"
+  }
+]
