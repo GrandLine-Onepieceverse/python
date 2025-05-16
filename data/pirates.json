@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Straw Hat Pirates",
+    "logo": "/placeholder.svg?height=100&width=100",
+    "description": "A notorious pirate crew led by Monkey D. Luffy, seeking the One Piece treasure.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "role": "Captain",
+        "bounty": 1500000000,
+        "image": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "role": "Swordsman",
+        "bounty": 320000000,
+        "image": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "id": 3,
+        "name": "Nami",
+        "role": "Navigator",
+        "bounty": 66000000,
+        "image": "/placeholder.svg?height=80&width=80"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Heart Pirates",
+    "logo": "/placeholder.svg?height=100&width=100",
+    "description": "A pirate crew led by Trafalgar Law, a powerful Warlord of the Sea.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Trafalgar D. Water Law",
+        "role": "Captain",
+        "bounty": 500000000,
+        "image": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "id": 2,
+        "name": "Bepo",
+        "role": "Navigator",
+        "bounty": 500,
+        "image": "/placeholder.svg?height=80&width=80"
+      }
+    ]
+  }
+]
